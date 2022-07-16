@@ -23,7 +23,7 @@ npx hardhat help
 
 👤 **Hillard Fritsch**
 
-- GitHub: [@koomekevo](https://github.com/smart-dev419)
+- GitHub: [@hillard](https://github.com/smart-dev419)
 
 ## 🤝 Contributing
 
